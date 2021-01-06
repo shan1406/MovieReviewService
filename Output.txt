@@ -1,0 +1,13 @@
+Exception multiple reviews not allowed
+Exception movie yet to be released
+Top 1 movies by total review score by viewers in year 2006:
+Don - 16 ratings
+Top 1 movies by total review score by viewers in genre Drama:
+Guru - 6 ratings
+Top 1 movies by total review score by critics in year 2006:
+Metro - 14 ratings
+Top 1 movies by total review score by critics in genre Drama:
+Guru - 0 ratings
+7.33
+5.50
+5.33
